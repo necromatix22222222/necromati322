@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Gonzalez",
+  "age": 39,
+  "address": {
+    "street": "Gaag Way",
+    "city": "Giwnodit",
+    "state": "IA",
+    "zip": "92024"
+  },
+  "contact": {
+    "phone": "(822) 930-8981",
+    "servicePhone": "800279784"
+  },
+  "birthday": "1971-03-04T09:07:03.393Z",
+  "ip": "21.191.207.197",
+  "foo": "bar",
+  "profile": {
+    "about": "Netlu jajafe eg ra hegezi iv cemegi likuz jenophec we wedpow godut jujuwzib fevlo nalpajof oz gemihsa osrol. Wiuzi lu jutinano po si buihi bo guhpupak vufobu lit giromo mevhe dujsojtul zi pemkufu degjij javbijuz. Nej gawfiwlu fa sajefa cuzbupna wil kajmub gokut pam hi ebjika mahlo cor papa vujmirmuf.",
+    "bio": "Dandotoz rofiz dimimaawu ves ofbog liwe ma tap rib fesoj vih gi ire hokambib bebikza. Tijif hev kuhip vujzi uvnaj kokotzen kok ozfortu paljepap ne faca nipwaggat we nep duiczif kupmur wanet. Cocpize sawep fir bo zobju tap usuvubi novkoena ki nadurud matuwe si min sage pejirus op es jivuk."
+  },
+  "apiKey": "74f080f97560925568b4da00a36e3393290c513753ca59bb02e3522a014259d1",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
