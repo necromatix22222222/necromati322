@@ -1,0 +1,26 @@
+{
+  "name": "Jason Wade",
+  "age": 19,
+  "address": {
+    "street": "Fumu Place",
+    "city": "Kuwnuen",
+    "state": "MN",
+    "zip": "56182"
+  },
+  "contact": {
+    "phone": "(688) 457-5315",
+    "servicePhone": "800273712"
+  },
+  "birthday": "1991-01-20T20:04:02.394Z",
+  "ip": "118.30.132.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Omcic maurfel pobkibew vo tuhzaduk jovo ejomemhag fonum tohowmab riropi zokebi juggu bucupis av jec tajinijoc popigu. Tap de sahopsos ubi tilgo laobe mirdu hik itailko lahgirep ekamalki gineco tiboji. Erfe jos igguv le bed piekva ehu poolni jefcah teswobher nakjijboh ulpis iwi le vovgamwo tosofzo oj. Ju wen wagebaij afoti gevug he bidrinjal hapu okjifom odewecle we vevkumtug emnah vepjizri uvko vipnir. Ige deevra wawobmav bake na wuhudpo bobubo na pec pegu hah fuhmu haanne vewifu vihka pu.",
+    "bio": "Gaewca zevbak ufdat pe dega nasab opre houja ep nasunoh onev hit. Awjo judahdug wut meltiltuv loluv zaftozko vowgow wara numa unurocin osipmiz zovukgo cahujek. Icenubmev iza tepzo docpig codoz balbu oro caven naszeb pusmuci lah dogimep hov goc ukufuf emzet ba bofimare. Kavvu seirajej lanatve gerupo gues fob doc luce maso bokbu hu fu fi ofko ade."
+  },
+  "apiKey": "50dd3f47fc72cc470d6e0c34f9069ab9876a37d5b9c3afe28c4f107acd48a9a8",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
