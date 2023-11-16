@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Porter",
+  "age": 43,
+  "address": {
+    "street": "Safej Parkway",
+    "city": "Gewojta",
+    "state": "NY",
+    "zip": "72723"
+  },
+  "contact": {
+    "phone": "(832) 846-1534",
+    "servicePhone": "800175948"
+  },
+  "birthday": "1969-12-24T09:21:15.728Z",
+  "ip": "123.213.195.173",
+  "foo": "bar",
+  "profile": {
+    "about": "Lab gik kiazzo as mavanibe hus nehjizpi mevuje caffus dibip rice wesizig kaheturiw logitvo. Sus vuwodmir cujbeda ilgo ofo lebvo pet lomri ziz bo cancelsu idcij. Sup lerlesun puhga fekovhu popa gogfa vi mojfa zaw saro meoh piwharhaj dudib pu cih ma gotez eb.",
+    "bio": "Nudelzep zihosvuc dazdopike ohapeja viojuca ef febas zukece ca pideh zos dajpirik zurud bujiv podho. Difsi le niszo ri notmabpu cahbuzug uhoub jedcislug tiphe we nor lur jevheema ihasevo picita gukrimu. Ruik acwad tapil bi lasar ham bi wotedi ageeh zu vopobo ama buwda pimnol gesdih eka."
+  },
+  "apiKey": "a9e9331064f10bb7876dd877182a483eb3684bca5c897fad6d03bad710d6546a",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
