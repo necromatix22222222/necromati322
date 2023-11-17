@@ -1,0 +1,26 @@
+{
+  "name": "Ella Hines",
+  "age": 57,
+  "address": {
+    "street": "Huvab Place",
+    "city": "Wicabra",
+    "state": "VT",
+    "zip": "60870"
+  },
+  "contact": {
+    "phone": "(922) 452-1423",
+    "servicePhone": "800211661"
+  },
+  "birthday": "2000-09-29T14:29:53.727Z",
+  "ip": "226.3.161.101",
+  "foo": "bar",
+  "profile": {
+    "about": "Podu ujo pilef ujuz pi epajes cubeb nilmezso bav hofra aruserci ruz liip te ezoguj fu wiplemco kataj. Wugubjed kezduw hauhi nausagu uwu cofa tij mecicuka atu vujulcuk bi nukof gosad rediliw. Kopmozo ca ikalac gip uk hugak fuveg vi gapemdez un pusekeja ektog.",
+    "bio": "Pop niezooso ejosev afo ora badasotes sicigdig genafof biho sirlifbaf wo ragumifo ukuzoro benfa. Odlop tebpe figophe cozak husufva kis moje zurriw ga soj ije ehnewa tiz ni. Jikeg ac waew iviki zo kijag rok iturbac teg upago kumajhi mamez. Todfow bu emoribe fodwa nuwefuf fotina nefza pig go carnu ludsin kopbi."
+  },
+  "apiKey": "27a24cc8b1c4a0eaed39ac061b4a39a7c853ff94cc168eafe6915854f8187ae1",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
