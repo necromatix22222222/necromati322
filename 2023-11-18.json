@@ -1,0 +1,26 @@
+{
+  "name": "Alice Vega",
+  "age": 46,
+  "address": {
+    "street": "Jovu River",
+    "city": "Usomven",
+    "state": "IL",
+    "zip": "58673"
+  },
+  "contact": {
+    "phone": "(546) 668-7249",
+    "servicePhone": "800859998"
+  },
+  "birthday": "1960-02-06T11:45:18.712Z",
+  "ip": "232.77.196.97",
+  "foo": "bar",
+  "profile": {
+    "about": "Ve cufe daj hulvo teg fosiddem seufa becidup se liikevog nobrajov hibgo ucco zicnuj bigelni fedkacpez. Pododoun tiso vunti zocita lumvoku podteto cab sowu abvoli agzow gago dejiseilu watigeh. Pud robhu ew buigvad girhagek kup ipidugoz puorir vufosgil itiage buwal icu wozwod apazov resi jeubuca buvahkov.",
+    "bio": "Onoced samki fu tevulo pu pah vuda we egocsa umwe cefban bom uv ih gakpec nuwowekip hi. Sonihga ve bob jos fejnanlu ukci age curaboza puwe muzlodgis encel aceevwi. Zo kefhi hosipzuv icsipnel jonadeod leg kefcat ku janigno zu rusjeoge asto dotlipju wusulejo uruf. Zijobwiv uniil ufumikza dom feg ij epokobwon cer vuruges hadgiz sujtun olatemdad usu. Upuic ulofga cic hezi ced hu owejev bi boh noni dabeor zejketval wi ha puzoit go javad tipjob. Vosemti okijen zucvultet pig vec lipivi ze moudug aw meprub liv ti folvu guwlap."
+  },
+  "apiKey": "e8a70d23da0430431f6a69f2d39934f564ec95fda13f022f6d90e589cbe14fbd",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
