@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Nichols",
+  "age": 65,
+  "address": {
+    "street": "Ejapo Key",
+    "city": "Zomonot",
+    "state": "AL",
+    "zip": "74914"
+  },
+  "contact": {
+    "phone": "(701) 668-1046",
+    "servicePhone": "800421368"
+  },
+  "birthday": "1979-03-05T07:38:20.054Z",
+  "ip": "167.15.168.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Nizzej ibe pekhaid sinuj hewireza lazi degul vesduh al lumnarep teh cesafaz jutremevi midesa onju. Dif loz babu apva cuaduca jap datu fup bugeh vucboljid peeputum koove lo. Okfu bamij fifofo riftac vad nuv patrec de odesasoh jevu celhuji tiljibih fipakkib buvicfa ra wiza minsaz. Mig al wanhumaf havmulaw avnurkuh dobwobun wohe keih oja wacer mow ehoki diaf. Rej nazzu isomire so me ud iz ojupif hedhouco ej luhuc nik nike.",
+    "bio": "Tazzu tikrur ano seje sibiji iw wedebijaj pe dazse nev pugzuuf duco ew vivi. Pilo bawo lecoihi pohhov bodigali nutfi biwumum gamo gofdepki hozejef timisave jut pubesfi. Aloponepi nu pum sum rusaf zid ud lumjejin fotwecuh vu ziref kuz su un."
+  },
+  "apiKey": "e290c47f431e6f18d43a9dd9f3e95336319444bc0efea8c05dd23dda28a3f4e3",
+  "currency": {
+    "code": "VEF",
+    "name": "Venezuela Bolivar"
+  }
+}
