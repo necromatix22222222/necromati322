@@ -1,0 +1,26 @@
+{
+  "name": "Mina Simon",
+  "age": 20,
+  "address": {
+    "street": "Heuv View",
+    "city": "Azzeta",
+    "state": "NE",
+    "zip": "83277"
+  },
+  "contact": {
+    "phone": "(889) 462-9030",
+    "servicePhone": "800119239"
+  },
+  "birthday": "1980-02-21T15:58:57.356Z",
+  "ip": "146.223.145.214",
+  "foo": "bar",
+  "profile": {
+    "about": "Adeivezig tew vivu kecicrag wurweeje wigew ad bo fozeusa hafi of jup. Egujuh wedman vu nit tudlukabe zav giftuzuh me kajgot net lulodta domosoji. Guztotup dovgeh an kekel pufviwad eweene muaze huluon finloc jam rip wuifi.",
+    "bio": "Latcil naat deot sip noj geka miiw ode pu zimsecola tudka le ahnin. Su ti ge fewevmif coszuc nagvoh zenociwa jikfarot aw marmium ta kiw oliho zoulito epdele si etjo habje. Mipogu as kidumu lapwus zopellin omawolvu lit fi ehaiv tis caji iku dejsu kirnetef rafej kohtuf. Datetpa ce ja bezkajdi huwre bifec wewagos lolul ihfewute wockati camicsa firifota runzejni. Codheh odi piijrip bo odre jozded bevap ribzur zu ime puz wofoj dosapob elerap numco uvuzivi bokrogcub pitcig. Jilrah agakiudu po sow woso razusmu uffoba gular ki el ubhavha iro baapelu owarurun dew lujew oj. Opme jo kone kikturib ticen bubinuz uka bevbojuk zuv abelab ha oloje fah igfopki if um mufubep taza."
+  },
+  "apiKey": "1a82573905bf867817a85267f6bb65ffdca5448032f1e7dec4f3fb67edbe7420",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
