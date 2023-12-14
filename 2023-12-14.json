@@ -1,0 +1,26 @@
+{
+  "name": "Jesse Cohen",
+  "age": 25,
+  "address": {
+    "street": "Guon Loop",
+    "city": "Hodocud",
+    "state": "MT",
+    "zip": "70417"
+  },
+  "contact": {
+    "phone": "(843) 706-7709",
+    "servicePhone": "800842253"
+  },
+  "birthday": "1998-02-14T14:25:56.024Z",
+  "ip": "144.144.43.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Ga tal wuzzut bimpalbec lek mobnupan ser fedtalbir nofodvil geroisu kifohdat hoc sufeci teh bedkenzub. Matodu lu roftenej wufeife viflokho guv umdikves dimesid rowrifoj lej temcabopu aki baveklob su jamud jodnoh onwap. Zatornen puc pe vijujano zima ulo vepmes lel jizipa posid urcit befunecem.",
+    "bio": "Ozailofob zug seregi lekozhu aguwnib karalis reh ohna ogwav kapaclic ragejah kuuwivid hotrag cap imwefre ugesutbeg. Humit vegaf zahem hiz uh gohnam tasrime ow gogfih zepja honter lig morhuwej ruc va cevalkaz octaon del. Egodidas zullez eleocsuw mehpu zin viruej japuba fawki egjice rumawopu vij ujiseco. Vonem pin uc fopu vidib velri osove kom ve na vizmit iz. Detselore eclud uga gehofu nomuute zaha akojoh onepva rese cunpe ontozo ji. Velhaduw losgiciz se bonkehok lijat uzujoca poc awesenle hu kujnamsen juz idsoimu ha bi kako va ivjupka."
+  },
+  "apiKey": "6a4c6c2cb7b22ebe761dbae14a0549e0fe53b722afd1a6d0ff58b3e6ff29cdb0",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
