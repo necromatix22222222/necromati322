@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Woods",
+  "age": 37,
+  "address": {
+    "street": "Illap Terrace",
+    "city": "Nejidgog",
+    "state": "ID",
+    "zip": "17129"
+  },
+  "contact": {
+    "phone": "(646) 408-6849",
+    "servicePhone": "800475911"
+  },
+  "birthday": "1965-01-31T20:27:02.867Z",
+  "ip": "150.27.240.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Havat nuzdazin kicdonis eheluddo ehipeher guluzju niberoro put kagaj zegkeb focu sobzukruz koha pe dim ze wilcahma fenutabov. Eh diveh pugig jijofec ca vat wopejgoj lod uma oj copafaho ceko fomde ce. Zoncomlag bado duukope havo iceh bolasi pedes kimace nug di mumu kikolwu ivari vowjapcit wa.",
+    "bio": "Bor ka lihcocin gihseeb mike ki kohairu tinag kulezdeg utivu natpuvte kaobezok ede puddabzob ocuro nucrobu gigrada paeve. Gog lodjamzek oro ru ipkiltok kuw ca cavuze ovelurew gedi zadlazkes webanren enarurco jajfan ig batgeci wet. Ruuw icurohu serko maris oseero usejorub nivcic modewces sehopiz enohik na rowe."
+  },
+  "apiKey": "e9ae5cf9eacdccc1fe33f78904b96d7f02929ead200e5eaee1ea06762718b1dc",
+  "currency": {
+    "code": "KES",
+    "name": "Kenya Shilling"
+  }
+}
