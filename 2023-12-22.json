@@ -1,0 +1,26 @@
+{
+  "name": "Manuel Hawkins",
+  "age": 43,
+  "address": {
+    "street": "Tumduj Extension",
+    "city": "Husuwu",
+    "state": "OR",
+    "zip": "84276"
+  },
+  "contact": {
+    "phone": "(242) 416-3522",
+    "servicePhone": "800471768"
+  },
+  "birthday": "1976-06-03T13:58:36.722Z",
+  "ip": "129.2.106.157",
+  "foo": "bar",
+  "profile": {
+    "about": "Farrimte gune semzew ufhashet fuw wafkes apwen ji vukuhji mufer aw dina ohala. Zozawro pienu siomono gijagil vuf zutna zid ijtik cig usgiet fugdofim pitozfic sawali berot waicza buufiwam lajame. Ufu olbe teun pilabhu wek hag ka rawno vivok hoz mobud tuac kabom cavbic lilmuhor eko tehtauwo wucihor.",
+    "bio": "Topriffe to bib umhev obimuwu ecuk lajiuh kubiza casvok tes ozovefo wano zeri. Mal doffip mub needati ubivesow lari wap orarel na hakcor gak za nemek bafpa jufupefiz. Luotbe ucged uteg furgan sodtodon dukez idirec co zupwuguza juwufov du zujuclo guvrolad soci wa pusagmi medjap. Kalilo ahtol erfilo piwsoc ec camak isotoso nehon bezer digkoij jub papga. Hemer batabku gelun no tikegub mec janonmu to ri ramied oruusugoh igasog araji pe mame ikkurlu et emu. Dilidrud uteugide ma puzo ogovinef kin ta atlaji racur co tuviw gopih narnoket faas ek nutvovud etjo ho."
+  },
+  "apiKey": "552f7d162284c6022e64ce946a9941967b740bf1318d09d7c37d0e5fe1329a2b",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
