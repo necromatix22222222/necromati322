@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Terry",
+  "age": 53,
+  "address": {
+    "street": "Kini Turnpike",
+    "city": "Towgolugi",
+    "state": "IA",
+    "zip": "91036"
+  },
+  "contact": {
+    "phone": "(587) 364-4949",
+    "servicePhone": "800932741"
+  },
+  "birthday": "1963-04-16T15:51:11.200Z",
+  "ip": "123.249.175.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Dirjehu sev rowpewez sume iropo liw je vatoz masesuz ure budji mu pendupkic. Vafsa zihmufi mijafi lacbulos juagudo kero goid kakso mip juk refisolo uke. Guraj owuvojri lap jone bu etfo galijko ga sugekki ubiep bomi vajco tukig pogitki eru lemwi ino keffouzu.",
+    "bio": "Bajbin nepjoven sun jozethe comibito sihve lofli ozaop cu ag zirec nephoef faz. Za evteddo ve zo nanujob odornal iregobi sej wot imoihaov zimkotid jep zabvu vigele ru johatak bow. Fozanaw wi egofin wildabo uki roz evoirete supulma sog jelagapeh eb judi fud fo bo bede lital hon. Tuzgutiw lidihivo zoruc ro mainhez ve cuapudi nedhesab sagan odzueg zasorlu bo ha idafepef lakicpib leto fusdu."
+  },
+  "apiKey": "159308e8bee373afa5651b511c2e5bb88876e826e2852fb779e6fa047595b23b",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
