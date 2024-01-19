@@ -1,0 +1,26 @@
+{
+  "name": "Nicholas McCoy",
+  "age": 30,
+  "address": {
+    "street": "Cerge Path",
+    "city": "Vontuja",
+    "state": "RI",
+    "zip": "19557"
+  },
+  "contact": {
+    "phone": "(726) 505-9315",
+    "servicePhone": "800247652"
+  },
+  "birthday": "2004-09-01T10:19:18.524Z",
+  "ip": "138.249.5.122",
+  "foo": "bar",
+  "profile": {
+    "about": "Arfap fiekika dew ohowipenu dap zekazoapu zez hincan rur his siep da fokbaz tem efgobmij mukufe tezabis nu. Fif rara udozam nejtavof zi kize gefmu kova re idcihi jeih uluge beuk miruf watoc ci da geem. Fizedobug sa dofih gof coki asnieve hig kaezlon suwo wej utuka jubmuvup igufu.",
+    "bio": "Dowkor un hut tir hirpedub di enava ah hes de aweni jigkik uzci. Kobced femooj il dazoopa de timedib eda guksag hafogawu fu omaebec remjoawa upu jeah hedod lotmud ojeriam. Fosse edacokizu ke fuwahiki rofrebo pimuwvec kouzcez bidini fohjir uh cucange pe."
+  },
+  "apiKey": "28e3821cfb7583fa39d7a52bec6e37e797a33b1783a4733f765ace9bbbd97e5d",
+  "currency": {
+    "code": "AUD",
+    "name": "Australia Dollar"
+  }
+}
