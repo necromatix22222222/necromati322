@@ -1,0 +1,26 @@
+{
+  "name": "Katharine Hall",
+  "age": 26,
+  "address": {
+    "street": "Powoh Boulevard",
+    "city": "Cepjukwu",
+    "state": "RI",
+    "zip": "57214"
+  },
+  "contact": {
+    "phone": "(708) 358-3335",
+    "servicePhone": "800368488"
+  },
+  "birthday": "1996-03-26T05:13:57.523Z",
+  "ip": "68.248.74.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Lusag bir se muf wizrel upeezwo ik ka ve pijtovat oceboafi mojorko ikmuj orebinwo si cugoozo ruvfer. Vubew pu selaum balvu ug juw jorpeb wo ruhbic tim napisatod azenaaj cobcatbow. Mudud siv locga duvapi degsemedi asoc februki roti aj umu maahukil daevasu. Sipuleh febo ba wuci risukib uza ozuitewi nofteta komlita cowfopek pi mi kev kibmaaro vohdapog is feffogma. Fajju ri lifaphah pi gi uhnaczi figovse keccip neila rilre bufnat evervi roob gejpoj leb uka ebkesene ode.",
+    "bio": "Suusceh comvuh hoj lamuc ju fu degapi pamlictac ave pohu cuel ginin ujocug oze pes ci juldadfuz. Livbijvi fe ope aweso duivsu ju oririfkar sinda opmum ca iro kaz bitde tezoji ki dozru. Mazikof cabatiw nar cegi depfe ipusnac alupubuj muanesaj obuku bilete ver gezlerek laltata lu lawde ficape bodepep."
+  },
+  "apiKey": "00c4a765d92872b7853ed9e797b3fa747490d7aa67ccb7cfa363f54aff03165f",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
