@@ -1,0 +1,26 @@
+{
+  "name": "Rena Nguyen",
+  "age": 48,
+  "address": {
+    "street": "Gigtez Street",
+    "city": "Sigrejas",
+    "state": "ID",
+    "zip": "74524"
+  },
+  "contact": {
+    "phone": "(944) 465-1172",
+    "servicePhone": "800329227"
+  },
+  "birthday": "1986-04-19T14:34:17.085Z",
+  "ip": "245.248.239.16",
+  "foo": "bar",
+  "profile": {
+    "about": "Ovunu obuunjim je hezsuwni woc his ikaafsis heud lu ganah wusul gowta dulujja sij fun dadnu fevigobil. Dojama ze junawwer ziher egruge zucudre ado jonnu mi hazhal ri guhaw nuwum up veje efwi lijoz. Husso iliv kal ne jerpez an he ulamevuc ujsokhi uco arasomfek put bizezoza.",
+    "bio": "Nit firu ho vijzevfo tur wuufi katsupmut zowfa hemah rinucu cabop hojed. Emu wugab po befhe wu id ti in ub tiv ikodugsi ujibe. Defhuguva er pefumoro ufevet urehiku hecjula urla zapnogka eleujtul we cuzehzu ig obavi ni subicwat le. Vepawew um ak pu ri keruh dulud bedik joc tofake palde nu zuwiw."
+  },
+  "apiKey": "4eb7359be85f73fa93f8f69a445e52cd9ec3ecf069cd3235750b9816f73031e1",
+  "currency": {
+    "code": "NGN",
+    "name": "Nigeria Naira"
+  }
+}
