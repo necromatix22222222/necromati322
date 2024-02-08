@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Davidson",
+  "age": 27,
+  "address": {
+    "street": "Vamjeb Grove",
+    "city": "Rehhihwa",
+    "state": "FL",
+    "zip": "58133"
+  },
+  "contact": {
+    "phone": "(484) 599-7983",
+    "servicePhone": "800465994"
+  },
+  "birthday": "1972-07-28T07:48:09.835Z",
+  "ip": "44.104.177.252",
+  "foo": "bar",
+  "profile": {
+    "about": "Logsokzov ab in vondaz donhewu co darke sejjuti foc juzvewov no numjolpot juj wal mocbotog. Ilsowi epgil osa ica ep pof bu ugejav fonripfat purasse deuci luk. Gudorta kicomib veedadis rawided tugguceb ha impuh bukuc si ipubofboc vacemi basetu tuwtuzo pore fuzodi dodu rudaku.",
+    "bio": "Azu rilaade lafcurab momamho ban tafalucec zu ipo ja mu ejic fuakisa dasec goewmat ecunizuf favbov ib. Ahucag loni cuwhuv hi hukkojla mivbazga vi ehu dunop ek fomjomep si otzo peugu mobfur jawrahi. Mowce rohup sa dikemku etotogedo hi aj vudenrus bubep luw iv vuboavu fi dog."
+  },
+  "apiKey": "c03536c5bd11bcedc3e46a4ce29893fca6f51f808a6998e6c8cd138e056660f0",
+  "currency": {
+    "code": "TWD",
+    "name": "Taiwan New Dollar"
+  }
+}
