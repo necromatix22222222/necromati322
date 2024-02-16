@@ -1,0 +1,26 @@
+{
+  "name": "Mike Delgado",
+  "age": 38,
+  "address": {
+    "street": "Enfa Junction",
+    "city": "Hariwlez",
+    "state": "DE",
+    "zip": "23429"
+  },
+  "contact": {
+    "phone": "(973) 854-5071",
+    "servicePhone": "800159457"
+  },
+  "birthday": "1987-03-06T03:34:44.131Z",
+  "ip": "29.230.104.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Lelup tuw fe in etewumu kewram siv pu opvup hi kap oj lejac pi sid fobla tako. Wuwpe ohomo rum gahituwis dipajtav nijmav jo numa ev zohasir abeeffun seg bemmim kic belbip. To na uwcef nibzoc nun goov dorulaf ijovupdo wusidom hafbit ofe iko gug. Ug cusuhpu bej uta kucno jiveno okagiwi ec jec moh fi azec loubeti imi gepdarij. Nof hinne upi lookumu kapijet seja dathagoj gij wefijcig ela opi ce.",
+    "bio": "Rano viwitake vo kub mus omupi harebnav bam vowoka iwa fewa pivo zul rogpi bagoblo poplaaw. Tatrajis kigawop hufoffe mos gizco sopofaj felopjab difcoiw rozhiv bimi tup insuw lobofeb kanuzrut necibgef ifzi. Maum fafilfu oz jep agipi ge gen repifog junmiir az fo fed deufhi reniwi cim tojipjuh feka."
+  },
+  "apiKey": "fc9961a5376f44293767ccbb3d1eb115667988ca0ca3c605087015fc3b72b0dd",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
