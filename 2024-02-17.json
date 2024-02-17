@@ -1,0 +1,26 @@
+{
+  "name": "Ola Kennedy",
+  "age": 21,
+  "address": {
+    "street": "Rojac Grove",
+    "city": "Gasotdog",
+    "state": "VT",
+    "zip": "38011"
+  },
+  "contact": {
+    "phone": "(457) 655-9738",
+    "servicePhone": "800318763"
+  },
+  "birthday": "1967-10-27T15:01:47.412Z",
+  "ip": "50.185.148.184",
+  "foo": "bar",
+  "profile": {
+    "about": "Suahahu bukduzot heg ibsi luzwil ce wuuciw zizomuza hewhoggi ohuvi cudekin codo. Huccal caip weukosaf kervuzel majvab malbollu cebuv vonmor eluji muji gi lotav otudiz nuc upe tegar. Ralledu uz moihkum hiito igi bikfem mo tecluhfoj pod fu vilceuju wod. Enemugu uda mahutpe boukih mep eg jowlitpid fugmuk hipotla tuz vu va isibeat not ahupido.",
+    "bio": "Azu ecur tadenuj poluw zak rulpuzeti tinhet uwoam am owa ka teheru latdiwac gibo eliap patamhu ateufu sab. Livmu icubow ode zarcor beufmu nemerar sof nakgavete dan va wovdelazi rerguwmo voissu jarno ahitehi. Mah du etul rolozco keda watgud tidgad nahgaofo tep duetcer rel jija am hih tunab komluot jeab. Lonzugev upfejik te far robad lo okoduw orieno gej lor kidjajar ere nak ciufehi run. Citohus cuhza le cugfolma nojkujin zejihag hiv safi ipikucliw coh tisa nendunwif gud rupamejob ovhu."
+  },
+  "apiKey": "628bcf30d9528b29ae7f391e1194e83561a1a26b290132cd6a1f192cee57e535",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
