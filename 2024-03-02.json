@@ -1,0 +1,26 @@
+{
+  "name": "Jack Allen",
+  "age": 56,
+  "address": {
+    "street": "Giam Way",
+    "city": "Sokjirwah",
+    "state": "KS",
+    "zip": "56216"
+  },
+  "contact": {
+    "phone": "(785) 473-8022",
+    "servicePhone": "800941733"
+  },
+  "birthday": "2006-03-14T14:29:07.493Z",
+  "ip": "176.4.233.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Of ajene vitnap pu cofifor jolazpis bedtojoge niv hamej satoj jusoco lujwator. Ebzufvid sagrem gavsicvak hibaka cocefde wuse edcu vipotba reom tip rafha pu fagris ove faidce li muzabma im. Fek monma mez widakum goreb vakole nide kukgajci asku em kafucozi afmobibo las. Da bucuvmok ucfofi dif hebug saukijas kunnaako kuludabo pi rugda roir bugpoku.",
+    "bio": "Igtihet jegefijec je ko ozbiresu ik zokneg up gocento peklomig ig ma nivcada ehzave ga pin tamifafi. Ti bivoba edhi cec pieffaw mahuf zowpe iboda kacoz oge tihhaoc meflumnim epiibo sanuka honri. Sut vu waneme af hewasa liworivan ineuca juerpoz zojhuh go bu safwaf timcudso ikit zo raezi bi cosninlo. Wavkoko me bajof dapzu deczig nonipi ceh ka ujehi rud teg sehiwak laiw veveteju carragmim apufikid. Taopva vet nehuhve fafaevi liflil mihowsud esoihpa awawob ce apnob iczo fiz za."
+  },
+  "apiKey": "1dd87ac728a65017a440a4079db6a28589e756825dd80d4c7930306be40e829a",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
