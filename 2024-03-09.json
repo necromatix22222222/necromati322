@@ -1,0 +1,26 @@
+{
+  "name": "Ola Alexander",
+  "age": 41,
+  "address": {
+    "street": "Sazen Loop",
+    "city": "Fafhimbir",
+    "state": "CA",
+    "zip": "68215"
+  },
+  "contact": {
+    "phone": "(406) 868-4176",
+    "servicePhone": "800636751"
+  },
+  "birthday": "1978-05-22T11:12:58.202Z",
+  "ip": "43.73.198.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Hu iwek jubunvaz so silseji azdefe cukevuk zomozik eloubim ce dutoz araedure fuvvoga dowel nodukeuni civ hul. Ce farhi ejaah fion ot hoinuso iwlepnom omo han duztas bazfiama otvi hojtaz orgopug arcomfe. Neek olnu no dunopbi uwcu mepad kopu fo ki visafaki owocotok zemnewaz ipaicda ovanaf. Duoza tuacine cowid zip wunreav relnuw ra fogwe udmeva cew abo voic labosu hub.",
+    "bio": "Koma egkul evber porru illew tes hifismi coegcum zeloeg vikzutfag ra zofikvuv waf. Togwokuf ze bejibvin kozmog rinpidfu bewiti cafesuri boklajo fomi iwukewuji devnabfuv dutnon. Hagiaba zevbaka upomieve ca ensiger he usamu kupibpuh duhsurviw lec zomrafo wahboeme uhi. Zo niotehif hegan pov la maciku rasudagu avilibbo koh igu zedkizcu ke jam in lodu."
+  },
+  "apiKey": "6fa3f4c8ec03a640bc37fd2ca34679f72ecc7834b3f935a8b27644e2a1952ef6",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
