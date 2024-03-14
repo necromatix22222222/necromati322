@@ -1,0 +1,26 @@
+{
+  "name": "Marie Peterson",
+  "age": 44,
+  "address": {
+    "street": "Catva Path",
+    "city": "Ilevibtu",
+    "state": "WI",
+    "zip": "09085"
+  },
+  "contact": {
+    "phone": "(330) 722-6985",
+    "servicePhone": "800323568"
+  },
+  "birthday": "1987-08-23T14:19:18.333Z",
+  "ip": "94.106.198.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Pusjuggat ib wenuzu ano te eroze goecvez cek izlew kilepomu zafu nefojok cumnez si. Ke vemas ibuup pidawtu eleduzwu wil hiisutu aridu ziw dagued ejal adarushin um evag po wi nuevude ezapi. Mafmoskig fuptecnu ride su bokedpij ajjo zud sed luvus paj desufnu bob vesal hipe sitepzol fo hew.",
+    "bio": "Kevcizzu ohru tekzik tog suehte comvu foh aw korlisil rono jokiak dusolsu pizor fa ziak. Pom zafgobih lop hi pevomes uwofaze lizouw soker te hevjemud loup diof abti av sanukuj. Wunsofir raamsa nipnokin railwi ikrarkat adapiwda mordezuf jom punwarab wifhimo afi mepu za overemam vuw. Tal ji ez jebagiz hessebvu repzigrak eme fer pahsuvu sukenuf upocun farwujek voh nod iluoj ig vihrol panenucem."
+  },
+  "apiKey": "ccc1e94acb8df8e04a03ca05a9602be7c57699fedaab2396aa6dc786efc5d1cd",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
