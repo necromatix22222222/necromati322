@@ -1,0 +1,26 @@
+{
+  "name": "Lewis Waters",
+  "age": 42,
+  "address": {
+    "street": "Orlu Lane",
+    "city": "Ahooslev",
+    "state": "NY",
+    "zip": "84627"
+  },
+  "contact": {
+    "phone": "(458) 738-9371",
+    "servicePhone": "800232194"
+  },
+  "birthday": "1961-03-23T02:05:31.088Z",
+  "ip": "100.39.243.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Nefalono za koculo wiaj vohad belifwaf ce rumovhoz oja cegzojfa lesho culbojiz. Baefahi unefi wogoz ipse ojosi vasudre ba rogcoiju tekais buwipo dewih rijtiw tazucanu. Babpisir kofiwe zekeclaz icaehzic uzowut ugolepdoc vacosto tekvil hamloag vozulu garac zugacbiz fov loruwrol.",
+    "bio": "Fak cilwames boli ro olicasce leneavi vukojmec wuzoozu wat vo poovati zijikin toh fi me. Sanbufcir wamonvek pa ot we bate figbu wolizu fosob atru riule gadeszu carlusu ine. Vuhu vede vebag nop lurzozpe iratzot uscuf bojam jufmom ip sesemol tuisduz. Kuzba lukugin fognikoku kihpopteb temesu sawojug surouzo ci muoznuf za po lasdeara siule."
+  },
+  "apiKey": "1a299a6009a1b6304f4152849c49cc6b30829d96840304d7949b4ca3bb326649",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
