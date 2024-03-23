@@ -1,0 +1,26 @@
+{
+  "name": "Leon Duncan",
+  "age": 23,
+  "address": {
+    "street": "Carub Point",
+    "city": "Relogig",
+    "state": "UT",
+    "zip": "90527"
+  },
+  "contact": {
+    "phone": "(277) 553-3283",
+    "servicePhone": "800566364"
+  },
+  "birthday": "1983-05-25T07:34:28.616Z",
+  "ip": "225.76.77.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Safahi dac jer suh ja zog noz te lilu nueni keasuba merwofrij ijikelvar fumga imiadimub ekumoowa. Ki kol we weze uvku zakimwac lopme wactoir eciaze soz da enakuezi ekibomo jit saud kemuli bisutem. Jacdej dupe zu vataze kigpe usfit duf pemi efilvu jusajip juw vi reb.",
+    "bio": "Zuusauv ma bajfap gohjej wurpawcig fakzomji mutikonup holjoum domorlez figida takpob lasofaju wakru di kiodi. Tetanmiw oz bikeripo so wobo erucemevo tujlo opoaz hucip fur ric ziasi. Mokirav fudef vaeto luavav jokac pafkuheg nonsoop ko tab av egpol puso. Dotub vihow omsu jusnofge rur fumawa emeco duwu ceso cazi celaf owow heeg lor. Wizwanaj lug wahozmo fu lukoc ju do ju sil hangij luje bado picafi dorbanac nevofefe jujupa fe nakvusul."
+  },
+  "apiKey": "1acb1e132bbfb93160740748c2c518225eb6b3abf6515fea25220125f532d391",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
